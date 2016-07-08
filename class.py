@@ -19,7 +19,6 @@ class Demo:
     print "Name: ", self.name, ", salary: ",self.salary 
 
 
-
 #Creating first object of the Demo class
 obj1 = Demo("Zara",2000)
 #second object
